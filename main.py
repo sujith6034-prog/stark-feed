@@ -24,7 +24,7 @@ GEMINI_API_KEY = "AIzaSyDpHFzie2cdpjzVctq6D3Lq3K1q-0yk35s"
 #  APP ICON PLACEHOLDER
 #  Drop your icon into assets/ folder
 # ─────────────────────────────────────────────
-APP_ICON_PATH = "assets/stark_icon.png"
+APP_ICON_PATH = "assets/starkfeed_icon.png"
 
 # ─────────────────────────────────────────────
 #  DEFAULT NICHES
