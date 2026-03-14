@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+*.pyo
+.Python
+env/
+venv/
+.venv/
+build/
+dist/
+.dart_tool/
+.flutter-plugins
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
